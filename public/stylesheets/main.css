@@ -3,7 +3,6 @@
   padding: 20px;
   border: 2px solid black;
   max-width: 35%;
-  height: 100%;
   margin: auto;
   text-align: center;
   font-family: arial;
@@ -19,7 +18,7 @@
 
 .upper-spacing{
   padding-top: 20px;
-
+  padding-bottom: 20px;
 }
 button {
   border: none;
