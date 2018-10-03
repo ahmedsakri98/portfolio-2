@@ -2,7 +2,7 @@
   border-radius: 25px;
   padding: 20px;
   border: 2px solid black;
-  max-width: 35%;
+  max-width: 50%;
   margin: auto;
   text-align: center;
   font-family: arial;
@@ -26,9 +26,10 @@ button {
   display: inline-block;
   padding: 8px;
   color: white;
-  background-color: #000;
+  background-color:#9a5ed0;
   text-align: center;
   cursor: pointer;
+  border-radius: 8px;
   width: 100%;
   font-size: 18px;
   text-decoration: none;
@@ -55,5 +56,5 @@ a:hover {
 }
 
 .icons {
-  letter-spacing: 45px;
+  letter-spacing: 19px;
 }
