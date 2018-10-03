@@ -2,11 +2,10 @@
   border-radius: 25px;
   padding: 20px;
   border: 2px solid black;
-  max-width: 50%;
+  max-width: 35%;
   margin: auto;
   text-align: center;
   font-family: arial;
-  height: auto;
 }
 
 .title {
