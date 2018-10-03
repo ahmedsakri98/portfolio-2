@@ -1,16 +1,26 @@
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 600px;
+  border-radius: 25px;
+  padding: 20px;
+  border: 2px solid black;
+  max-width: 50%;
   margin: auto;
   text-align: center;
   font-family: arial;
+  height: auto;
 }
 
 .title {
-  color: grey;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #333;
   font-size: 18px;
 }
 
+.upper-spacing{
+  padding-top: 20px;
+
+}
 button {
   border: none;
   outline: 0;
@@ -22,15 +32,29 @@ button {
   cursor: pointer;
   width: 100%;
   font-size: 18px;
+  text-decoration: none;
 }
 
 a {
-  text-decoration: none;
   font-size: 22px;
-  color: black;
+  color: white;
 }
 
 button:hover,
 a:hover {
   opacity: 0.7;
+  text-decoration: none;
+}
+
+.name-font {
+  font-size: 20px;
+  color: #333;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+
+.icons {
+  letter-spacing: 45px;
 }
